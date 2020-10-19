@@ -8,12 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itneel97/natour-modules.git"
+    "url": "git+https://github.com/itneel97/tourbasic-css.git"
   },
   "author": "",
   "license": "ISC",
-  
-  
+  "bugs": {
+    "url": "https://github.com/itneel97/tourbasic-css/issues"
+  },
+  "homepage": "https://github.com/itneel97/tourbasic-css#readme",
   "dependencies": {},
   "devDependencies": {
     "node-sass": "^4.14.1"
